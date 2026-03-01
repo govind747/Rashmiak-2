@@ -3,5 +3,6 @@
   "/page": "app/page.js",
   "/login/page": "app/login/page.js",
   "/signup/page": "app/signup/page.js",
-  "/section/[slug]/page": "app/section/[slug]/page.js"
+  "/section/[slug]/page": "app/section/[slug]/page.js",
+  "/product/[slug]/page": "app/product/[slug]/page.js"
 }
