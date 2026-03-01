@@ -26,6 +26,11 @@
       "static/chunks/main-app.js",
       "static/chunks/app/signup/page.js"
     ],
+    "/section/[slug]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/section/[slug]/page.js"
+    ],
     "/not-found": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
